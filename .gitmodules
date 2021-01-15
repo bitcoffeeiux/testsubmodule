@@ -1,0 +1,3 @@
+[submodule "nats-server"]
+	path = nats-server
+	url = git@github.com:bitcoffeeiux/nats-server.git
